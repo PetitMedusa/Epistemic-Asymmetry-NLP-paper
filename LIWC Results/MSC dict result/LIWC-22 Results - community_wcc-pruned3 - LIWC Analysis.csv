@@ -1,0 +1,2 @@
+Filename,Segment,WC,WPS,BigWords,Dic,Threat,UncertaintyAvoidance,ResistanceToChange,EndorsementOfInequality,AllPunc,Period,Comma,QMark,Exclam,Apostro,OtherP,Emoji
+community_pruned3.txt,1,164306,14.47,29.49,0.53,0.2,0.01,0.19,0.13,40.91,14.72,3.34,0.23,0.59,1.39,20.64,0.38

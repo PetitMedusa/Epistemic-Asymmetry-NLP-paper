@@ -1,0 +1,2 @@
+Filename,Segment,WC,Care_Score,Fairness_Score,Loyalty_Score,Authority_Score,Sanctity_Score,Care_Sentiment,Fairness_Sentiment,Loyalty_Sentiment,Authority_Sentiment,Sanctity_Sentiment
+community_pruned2.txt,1,375401,2.65,2.45,2.23,2.3,1.97,-2.51,-1.38,-0.62,-0.97,-1.16
