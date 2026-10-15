@@ -1,6 +1,0 @@
-Community,Segment,WC,Care_Score,Fairness_Score,Loyalty_Score,Authority_Score,Sanctity_Score,Care_Sentiment,Fairness_Sentiment,Loyalty_Sentiment,Authority_Sentiment,Sanctity_Sentiment
-Democrats,1,715801,2.45,2.38,2.15,2.18,1.92,-2.27,-1.03,-0.43,-0.7,-1.2
-,,,,,,,,,,,,
-Republicans,1,528241,2.53,2.45,2.25,2.34,2.02,-2.17,-1.12,-0.55,-1,-1.52
-,,,,,,,,,,,,
-US- News Organizations,1,375401,2.65,2.45,2.23,2.3,1.97,-2.51,-1.38,-0.62,-0.97,-1.16

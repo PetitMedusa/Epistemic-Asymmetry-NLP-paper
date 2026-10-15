@@ -1,2 +1,0 @@
-Filename,Segment,WC,WPS,BigWords,Dic,Care_Score,Fairness_Score,Loyalty_Score,Authority_Score,Sanctity_Score,Care_Sentiment,Fairness_Sentiment,Loyalty_Sentiment,Authority_Sentiment,Sanctity_Sentiment,AllPunc,Period,Comma,QMark,Exclam,Apostro,OtherP,Emoji
-community_pruned0.txt,1,715801,13.23,25.51,23.09,2.45,2.38,2.15,2.18,1.92,-2.27,-1.03,-0.43,-0.7,-1.2,38.97,15.63,3.03,0.46,0.2,2.43,17.22,0.46
