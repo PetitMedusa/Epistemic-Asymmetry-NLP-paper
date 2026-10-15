@@ -1,0 +1,2 @@
+Filename,Segment,WC,WPS,BigWords,Dic,Threat,UncertaintyAvoidance,ResistanceToChange,EndorsementOfInequality,AllPunc,Period,Comma,QMark,Exclam,Apostro,OtherP,Emoji
+C:\Users\jabcm\OneDrive\PhD\ISIS\results\tweets_by_community\AUS\cleaned\deduped\AUS_wcc-pruned_1comm_all_ascii-denoised-deduped.txt,1,1269913,23.87,29.58,0.47,0.19,0.01,0.17,0.09,24.74,7.86,2.29,0.28,0.3,1.25,12.77,0

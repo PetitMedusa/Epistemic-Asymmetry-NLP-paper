@@ -1,0 +1,2 @@
+Filename,Segment,WC,WPS,BigWords,Dic,Care_Score,Fairness_Score,Loyalty_Score,Authority_Score,Sanctity_Score,Care_Sentiment,Fairness_Sentiment,Loyalty_Sentiment,Authority_Sentiment,Sanctity_Sentiment,AllPunc,Period,Comma,QMark,Exclam,Apostro,OtherP,Emoji
+C:\Users\jabcm\OneDrive\PhD\ISIS\results\tweets_by_community\USA\cleaned\deduped\USA_wcc-pruned_1comm_all_ascii-denoised-deduped.txt,1,29162063,16.63,25.99,23.29,2.72,2.55,2.28,2.27,2.12,-2.82,-1.7,-1.02,-1.39,-1.93,27.04,7.7,3.08,0.72,1.09,1.47,12.99,0

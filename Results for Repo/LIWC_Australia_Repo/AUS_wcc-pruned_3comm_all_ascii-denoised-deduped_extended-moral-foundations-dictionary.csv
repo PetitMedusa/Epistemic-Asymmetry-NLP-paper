@@ -1,0 +1,2 @@
+Filename,Segment,WC,WPS,BigWords,Dic,Care_Score,Fairness_Score,Loyalty_Score,Authority_Score,Sanctity_Score,Care_Sentiment,Fairness_Sentiment,Loyalty_Sentiment,Authority_Sentiment,Sanctity_Sentiment,AllPunc,Period,Comma,QMark,Exclam,Apostro,OtherP,Emoji
+C:\Users\jabcm\OneDrive\PhD\ISIS\results\tweets_by_community\AUS\cleaned\deduped\AUS_wcc-pruned_3comm_all_ascii-denoised-deduped.txt,1,558856,18.49,29.29,23.02,2.64,2.5,2.23,2.3,2.01,-2.45,-1.24,-0.68,-1.16,-1.58,26.84,7.21,2.09,0.84,0.77,1.24,14.69,0
